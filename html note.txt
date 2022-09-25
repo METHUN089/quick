@@ -1,0 +1,197 @@
+dHow to start ?
+ project folder - html,css ,font ,img , video ,vendor 
+   files 
+   editor 
+   browser 
+
+
+  defination-
+    rooot directory - project life r 1st indow , indexm.html will be in root directory
+
+
+ 1st code 
+   template 
+   head -support ,link up ,info
+   body -content
+
+
+element , tag , attribute 
+   title - h1-h6
+   text - p 
+   image -
+       src,- internal, external (cdn)
+       alt 
+   ink 
+      internal -
+      external -fb -tw-li
+      <a herf>about us</a>
+
+ abc 
+   additional data -tag / element    
+   name ="value "
+    starting tag
+
+
+    file path-
+       speed opt -
+           http loading -
+  seo
+    h1 -h6
+     p 
+     img  name ,alt, properly 
+
+        content 
+            img  audio vdo -download
+            size - proper - 1600-700 (high)
+
+ css 
+     inline css
+     internal css
+     external css- standard 
+
+     css power - inline, internal external
+
+
+  syntex
+     selector {
+     properties: value ;
+    }
+     }
+
+     selector 
+         tag / element
+         class / id = .class "" , #id="" class can be number also
+         id = id will have be  individual
+color 
+ messurement px pt em rem % 
+ 1em = 16px
+ 1rem = 16px
+
+
+ margin-( will create space )
+  margin: 100px top bottom right left 
+  margin 50 px 100px top-bottom,left-right 
+  margin: 50px 100px 50px top left-right , bottom 
+  ;margin: 50px 50px 50px 50px top right bottom left:
+  margin-top : 100px; 
+  margin-left : 50px( specific )
+
+  padding { wont create space }
+
+  padding : 50 px ; (will take top bottom left right fropm inside allside)
+  padding-top 100px (top)
+
+   box model concept ( content r por padding r por border r por margin diye present kora)
+
+
+block level - inline element 
+
+display
+    inline 
+    block _ h1,p,div h2 ( full space will aquire )
+    inline- block { inline + content margin}
+ 
+ htmml block - inline element which one
+
+ sementic markup - non sementic markup 
+
+ sementic 
+    header 
+    footer
+    aside 
+    section 
+    main 
+
+   non sementic _
+
+
+    div 
+    span { slected word } decenteed selector 
+iframe 
+
+
+
+
+
+
+
+Web design , responsive web design , front end design /development
+html,css,js,jq,bootstrap
+
+
+image to html
+psd to html
+pdf / text / doc to html
+layout / skecth / blue print to html
+figma to html
+xd to html
+url/web to html
+
+web redesign
+f
+
+
+image to html----- 
+asset gather 
+    logo 
+    icon
+    font
+    text
+    image
+    
+layout define
+section define
+
+coding-------
+    
+    code comenting 
+    sementic markup
+    refuse  .. block
+    seo opt code 
+    speed opt code
+    croosss browser support 
+    cross platform support
+    error check 
+    vaildation ceck
+
+
+
+    css heirarcy ... 
+    pixel perfect ....
+    ui ux
+
+
+
+Logo
+     
+     text 
+     img/icon
+     img+text
+
+
+Landing page - one page - sales page 
+reuseable block r somoy class use kora standard 
+:hover 
+:active 
+:focus
+first child()
+last child()
+nth child()
+
+
+font-family 
+
+    sherif 
+    sen sherif 
+    cursive 
+    monospace 
+    line-hieght
+    latter spacing 
+    word spacing
+    
+
+
+
+
+
+ 
